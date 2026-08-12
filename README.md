@@ -331,3 +331,7 @@ src/components/       reusable UI, including the lifecycle rail
 src/lib/              client-side fetch wrapper, hooks, formatters, schemas
 tests/                unit + integration, including the concurrency suite
 ```
+
+**Live demo:** https://meridian-fleet-eight.vercel.app
+Sign in as `priya@meridianfleet.test` (customer), `rahul@meridianfleet.test`
+(driver), or `admin@meridianfleet.test` (admin) — password `Password123!`.
