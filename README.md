@@ -1,4 +1,6 @@
-
+**Live demo:** https://meridian-fleet-eight.vercel.app
+Sign in as `priya@meridianfleet.test` (customer), `rahul@meridianfleet.test`
+(driver), or `admin@meridianfleet.test` (admin) — password `Password123!`.
 
 # Meridian Fleet
 
