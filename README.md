@@ -1,3 +1,5 @@
+
+
 # Meridian Fleet
 
 A mini fleet booking and tracking platform. Customers book rides, drivers pick
@@ -332,6 +334,3 @@ src/lib/              client-side fetch wrapper, hooks, formatters, schemas
 tests/                unit + integration, including the concurrency suite
 ```
 
-**Live demo:** https://meridian-fleet-eight.vercel.app
-Sign in as `priya@meridianfleet.test` (customer), `rahul@meridianfleet.test`
-(driver), or `admin@meridianfleet.test` (admin) — password `Password123!`.
